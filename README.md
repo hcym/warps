@@ -4,7 +4,7 @@
 
 # 目录
 
-- [更新信息](README.md#更新信息)
+- [更新信息](README.md#2026未更新)
 - [脚本特点](README.md#脚本特点)
 - [WARP好处](README.md#WARP好处)
 - [warp 运行脚本](README.md#warp-运行脚本)
